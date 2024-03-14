@@ -1,0 +1,26 @@
+#header {
+    background-color: #F27405;
+}
+
+#header .global-search {
+    width: 350px;
+    margin-right: 2%;
+}
+
+.global-search input {
+    height: 20px;
+    background-color: white;
+    
+}
+.brand {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.global-menu{
+    padding: 10px;
+    margin: 10px;
+    
+}
+

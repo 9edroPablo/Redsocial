@@ -1,0 +1,7 @@
+#conte{
+    display: flex;
+    flex-direction: column;
+}
+#botond Acep {
+    margin-bottom: 60px; /* Define el margen inferior para el elemento Acep */
+}

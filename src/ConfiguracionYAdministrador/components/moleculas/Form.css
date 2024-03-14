@@ -1,0 +1,68 @@
+#contenido {
+    position: relative; 
+    width: 550px;
+    height: 210vh;
+    border: 6px solid #ffffff;
+    top: 50px; 
+    margin-bottom: 80px;
+}
+  
+#logofor {
+    font-size: 40px;
+    font-weight: 600px; 
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffffff;
+}
+
+#infor {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffffff;
+}
+
+#botones{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#ad {
+    width: 550px;
+    height: 290px;
+    gap: 8px;
+    display: flex;
+}
+.Titul {
+    font-size: 100px; 
+  }
+  
+.conf {
+    padding-top: 5px;
+    border-bottom: 3px solid rgba(5, 242, 242, 1);
+    display: inline-block;
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+}
+#sinsub {
+    padding-top: 10px; 
+}
+    
+
+#form {
+        height: 290px;
+        gap: 8px;
+        justify-content: center;
+        margin-left: 50px; 
+        margin-right: 50px; 
+}
+
+#formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

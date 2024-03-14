@@ -1,0 +1,18 @@
+.cardContainer {
+    display: flex;
+    width: 823px;
+    height: 250px; /* Ajusta la altura según tus necesidades */
+    background-color: #f2f2f2;
+    color:black;
+  }
+  
+  .aboutMeContent {
+    width: 557px;
+    padding: 20px; /* Ajusta el espaciado interior según tus necesidades */
+  }
+  
+  .friendsList {
+    width: 250px;
+    /* Estilo para la lista de amigos */
+  }
+  

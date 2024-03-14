@@ -1,0 +1,42 @@
+#ops{
+    display: flex;
+    flex-direction: column;
+
+}
+#buss{
+    display: flex;
+    justify-content:space-around;
+
+}
+#textos{
+    margin-top: 3%;
+    width: 95%;
+    height: 38%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 4px;
+    gap: 12px;
+    border: 5px solid rgba(5, 242, 242, 1);
+}
+.imagen-pequena {
+    width: 25px;
+    height: 30px;
+    color:red;
+    
+  }
+#con-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#bloqueCentrado {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(248, 10, 10);
+    padding: 20px;
+    border: 1px solid #000000;
+}
+
+

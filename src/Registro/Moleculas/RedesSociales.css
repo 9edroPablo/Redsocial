@@ -1,0 +1,11 @@
+.boxInputRedes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.imgRedsocial{
+    width: 24px;
+    height: 24px;
+    margin-right: 3px;
+}

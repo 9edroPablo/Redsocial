@@ -1,0 +1,11 @@
+.Fregistro{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 440px;
+    
+    background-color: none;
+    border-color: white;
+    border-style: solid;
+    border-width: 8px;
+}

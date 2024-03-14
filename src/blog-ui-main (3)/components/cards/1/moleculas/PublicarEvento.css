@@ -1,0 +1,36 @@
+.PublicarEvento{
+    width: 392px;
+    height: auto;
+    background-color: #012840;
+    display: flex;
+   justify-content: center;
+    
+    
+    
+    
+}
+.containerPublicarEvento{
+    width: 352px;
+    height: auto;
+}
+.flecha{
+    display: flex;
+    flex-direction: row;
+    
+}
+.date{
+    width: 192px;
+    margin-right: 5px;
+}
+.time{
+    width: 144px; 
+   
+}
+.text{
+    width: 100%;
+}
+.containerBoton{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}

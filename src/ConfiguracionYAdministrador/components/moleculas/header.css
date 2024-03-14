@@ -1,0 +1,38 @@
+
+header {
+    width: 98.5%;
+    height: 64px;
+    top: 12px;
+    left: 18px;
+    padding: 10px;
+    background-color: rgba(242, 116, 5, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+ 
+  #logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  #logo {
+    margin-right: 10px; 
+    color: aliceblue;
+  }
+  
+  .atras-button {
+    background-color: black;
+  }
+  #bot {
+    display: flex;
+}
+
+#bot .boton-button {
+    margin-left: 150px; 
+}
+
+  
+ 

@@ -1,0 +1,14 @@
+.descripcion{
+    width: 351px;
+}
+textarea{
+    width: 351px;
+    min-height: 127px;
+    height: auto;
+    outline: none;
+    resize: none;
+    border-style: solid;
+    border-color: aqua;
+    border-width: 4px;
+    padding: 0%;
+}

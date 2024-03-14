@@ -1,0 +1,30 @@
+.foto{
+    width: 38px;
+    height: 38px;
+    border-radius: 50px;
+    margin-right: 5px;
+}
+
+.boxPubli{
+    display: flex;
+}
+.boxCrearPublicaciones{
+    width: 500px;
+    height: 150px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+.boxBoton{
+    display: flex;
+    justify-content: space-between;
+}
+.PublicarContenido{
+   width: 680px;
+   height: 280px;
+    background-color: #012840;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
